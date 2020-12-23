@@ -1,0 +1,11 @@
+{
+    "name": "virtual-list",
+    "npmname": "aiwa-virtual-list",
+    "umdname": "virtual-list",
+    "username": "CNLHB",
+    "type": "js",
+    "module": "umd,esm,commonjs",
+    "test": "mocha",
+    "lang": "zh",
+    "version": "1.6.0"
+}
